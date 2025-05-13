@@ -3,9 +3,11 @@
 ___
 用于训练火灾和帧检测 AI 的图像数据集
 ___
-<strong> FireDataset 数据集 </strong> 是一个数据集，用于训练机器学习模型识别 Fire、smoke 和 neutral（没有火或烟雾的图像）。这是一个包含大约 13000 张图像和 3 个类的数据集，其中包括：
+<strong> FireDataset 数据集 </strong> 是一个数据集，用于训练机器学习模型识别 Fire、smoke 和 neutral（没有火或烟雾的图像）。这是一个包含大约 13000 张图像和 3 个类的数据集，其中包括：<br>
 * Fire 
+<br>
 * Smoke
+<br>
 * neutral 
 <br>
 
