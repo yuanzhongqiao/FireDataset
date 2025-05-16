@@ -11,7 +11,7 @@ ___
 
 ### 下载、训练和预测
 ___
-FireDataset数据集 在此存储库的发布部分提供供下载。您可以通过此链接[FireDataset](https://github.com/wengjinfang/FireDataset/releases/download/v1)跳转下载压缩包.
+FireDataset数据集 在此存储库的发布部分提供供下载。您可以通过此链接[FireDataset](https://github.com/wengjinfang/FireDataset/releases/tag/v1)跳转下载压缩包.
 
 ### Reqirements
 ___
